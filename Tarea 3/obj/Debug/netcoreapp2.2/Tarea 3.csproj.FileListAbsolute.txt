@@ -1,0 +1,4 @@
+C:\Users\elmik\OneDrive\Documentos\PO2\Tarea 3\obj\Debug\netcoreapp2.2\Tarea 3.csprojAssemblyReference.cache
+C:\Users\elmik\OneDrive\Documentos\PO2\Tarea 3\obj\Debug\netcoreapp2.2\Tarea 3.csproj.CoreCompileInputs.cache
+C:\Users\elmik\OneDrive\Documentos\PO2\Tarea 3\obj\Debug\netcoreapp2.2\Tarea 3.AssemblyInfoInputs.cache
+C:\Users\elmik\OneDrive\Documentos\PO2\Tarea 3\obj\Debug\netcoreapp2.2\Tarea 3.AssemblyInfo.cs

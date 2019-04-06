@@ -1,0 +1,21 @@
+Define: Clase Base, Clase Derivada.
+Clase Base:
+Una clase base es aquella que no dependen ninguno de sus atributos u objetos de la clase de alguna otra clase, 
+se podría decir que en términos de herencia, seria la clase padre, la clase que se mantiene fija, en el aspecto de herencia.
+
+Clase Derivada:
+La clase derivada heredará los miembros dato de la clase base y las funciones miembro, 
+y tendrá un miembro dato más, el título de la ventana. extends es la palabra reservada que indica que la clase VentanaTitulo deriva, 
+o es una subclase, de la clase Ventana.
+¿Que es herencia simple y herencia múltiple? 
+R:La herencia simple es la más típica, la que se puede encontrar en cualquier lenguaje moderno como Java o C#. 
+La herencia simple es una relación entre una clase padre (clase base) y una clase hija (clase derivada) llamada "es un tipo de",
+que muchas veces se abrevia como isA.
+
+Herencia Múltiple:
+R:Herencia múltiple hace referencia a la característica de los lenguajes de programación orientada a objetos 
+en la que una clase puede heredar comportamientos y características de más de una superclase. 
+Esto contrasta con la herencia simple, donde una clase sólo puede heredar de una superclase.
+
+¿En c# se puede hacer herencia múltiple?
+R: Si se puede hacer Herencia Múltiples
